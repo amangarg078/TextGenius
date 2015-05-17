@@ -1,0 +1,9 @@
+﻿WASHINGTON: China's Great Firewall has reportedly been consistently intercepting the Javascript module from Facebook Login, which allows third-party sites to authorize users through Facebook infrastructure, for the last three days.
+
+The behavior was first reported on Sunday. A Facebook spokesperson said that it was occurring locally and beyond the reach of their servers. The social media site is probing the situation, reported The Verge.
+
+The attack causes sites using Facebook Login to redirect users to two sites: An open-source software project, wpkg.org; or a personal travel blog, ptraveler.com.
+
+Only web users based in China or those accessing the web without a VPN will be affected as the code is intercepted within China's national telecom infrastructure. The attack can also be avoided by disabling Javascript, since the inserted code runs as a Javascript applet.
+
+It's not clear why the Chinese government would want to send users to these sites. However, it's not the first time that China has performed this kind of traffic interception. A similar redirection was used in March to perform a denial-of-service attack on GitHub, apparently in retaliation for dissident content posted through the service.

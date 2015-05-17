@@ -1,0 +1,26 @@
+﻿My local Starbucks recently swapped out some furniture for tables with built in wireless chargers. It’s one of 200 Starbucks cafes in the San Francisco Bay area and 10 in London to do so; the company plans to eventually install the technology in its stores throughout the United States, Europe, and Asia.
+
+This month, Ikea announced a line of tables, lamps, and desks that double as wireless chargers, shipping in April.
+
+So wireless charging, after years of CES demos involving charging mats and charging bowls and other not particular-appealing gadgets, is finally here, yes? Not exactly. Many battles over consumer electronics standards are quietly fought out in private conference rooms before the technology in question goes on the market, but that’s not what’s happening here.
+
+Starbucks and Ikea have embraced two different and incompatible approaches to wireless charging.
+
+As we’ve known since the Beta/VHS battles, when standards go head to head in the marketplace, it becomes not about which one has the best technology, or even which one has the most powerful patent position, but about which one somehow captures the heart of the consumer.
+
+Starbucks has rolled out wireless charging in the San Francisco Bay Area. The company makes free dongles available for a host of wireless devices.
+The Starbucks tables charge mobile devices using Duracell’s Powermat wireless charging technology. The Power Matters Alliance, the group managing the open standard based on the Duracell technology, includes AT&T, Blackberry, HTC, Huawei, LG, Microsoft, Qualcomm, Samsung, TI, and ZTE among its 68 members.
+
+Ikea’s line of lamps and tables uses the Qi technology, a standard being managed by the Wireless Power Consortium, which includes Huawei, Logitech, National Semiconductor, Nokia, and Sanyo among its 200 members.
+
+Both standards use inductive charging, in which the base station creates an alternating electromagnetic field that generates a current in the receiving device. The base station and receiver don’t actually have to be in physical contact, but, at the power levels (below 5 W) used by Ikea and Starbucks, they have to be pretty close (within 40 mm). The main difference is the wavelength: 100-205 kHz for Qi and 277-357 kHz for Powermat.
+
+Though the idea of wireless charging is to make it seamless by building it into devices so you simply toss them onto a wireless charging hot spot with no need to fiddle with plugs of any kind, very few devices are ready for this. Starbucks solves that problem by setting out racks of ring-shaped adapters, color coded to indicate their fit with different phones. (My first attempt required a little trial and error, now I know to reach for the white adapter.) The company also has rings for sale at the checkout counter, though I don’t see why anybody would bother to buy one; they’re too large to allow you to keep them plugged into your phone.
+
+Ikea will be selling adapters in the form of phone cases. This approach means a phone will always be ready to charge, but also means that people will have to give up their favorite case; that can be a hard sell.
+
+Ikea and Starbucks aren’t the only companies choosing sides in this battle. Meanwhile, General Motors is building Powermat into some Cadillac models; Toyota has announced that some Lexus models will include Qi charging.
+
+Samsung is hedging its bets. This month, the company announced that it will be building both Qi and Powermat charging into Galaxy S6 and S6 Edge phones. McDonald’s, also, hasn’t made up its mind. The restaurant chain is testing Powermat in New York, Qi in the UK.
+
+With all these companies getting in the game, is wireless charging catching on with the consumer? Ikea’s charging furniture isn’t on the market yet, so it’s too soon to judge there. But I have been watching the scene at my local Starbucks. Last month, the management apparently was keeping the adapters behind the counter, and it seemed that you’d have to come up with about $15 to purchase one if you wanted to use the charging tables. No surprise, nobody was using them. But this month Starbucks put adapters out on a table and people indeed were using them. Indeed, it is easier to plug a puck into your phone and set it on the table than it is to try to score a seat near a power outlet and crawl under a table to plug in a cord.

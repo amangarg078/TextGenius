@@ -1,0 +1,29 @@
+﻿SAN FRANCISCO: Wrapped under secretive 'Project Spartan' so far, Microsoft has unveiled future looking Edge as its new web browser, which would eventually replace the existing Internet Explorer.
+
+Edge, Microsoft officials argued, is lighter and faster than Internet Explorer and comes with new features like a built-in notation tool, a distraction-free reading mode, and website information from Cortana, a personal voice-assistant app for Windows.
+
+"Microsoft Edge is the browser built for Windows 10, and it will be available on the widest range of Windows 10 devices," Joe Belfiore, corporate vice president, operating systems group at Microsoft yesterday said at Build 2015, a conference of developers.
+
+So far Edge was wrapped under secrecy and was called Project Spartan.
+
+But not so any more, Belfiore said. "For us the name refers to the idea of being on the edge of consuming and creating.
+
+"It refers to the developer notion of being closest to the modern capabilities of the web," he said.
+
+The end users of the browser will think about for getting things done, for things like note-taking on the Internet, for a great way of reading and consuming content, the Corporate VC said.
+
+The browser has Cortana built-in, so it learns the things that one cares about and helps one get things done, he added.
+
+"We have been testing this a ton and we're optimistic about its opportunity to help people discover and connect with work that you all do on the Web and in apps.
+
+"Now, there's another big thing that we're doing in Microsoft Edge that has huge relevance to you.
+
+"That is enabling users to engage with your sites and give you a shot at starting to write some Web code, which you may put into an app via Web extensions built into Microsoft Edge," he said.
+
+With Microsoft Edge and the new support for these extensions, he said, one will see the company is going to enable people to discover and engage with code that developers are propping up on the Web.
+
+"So you've seen for engagement the start screen, the lock screen, you've seen Cortana and Microsoft Edge all helping people discover value in the Windows ecosystem," he said.
+
+Microsoft officials later said while Edge is successor to the heavily used existing Internet Explorer, but would keep the latter for the moment.
+
+Edge would be available only for Windows 10 and further.

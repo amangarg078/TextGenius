@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% import "_macros.html" as macros %}
+
+{% block title %}TextGenius - Post{% endblock %}
+
+{% block page_content %}
+<div class="page-header"/>
+{% include '_posts.html' %}
+
+{% include '_analysis.html' %}
+</div>
+	<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><span class="glyphicon glyphicon-comment"></span>    Comments</h3>
+  </div></div>
+<div class="comment-form">
+    {{ wtf.quick_form(form) }}
+</div>
+
+{% include '_comments.html' %}
+
+{% if pagination %}
+<div class="pagination">
+    {{ macros.pagination_widget(pagination, '.post', fragment='#comments', id=posts[0].id) }}
+</div>
+{% endif %}
+{% endblock %}

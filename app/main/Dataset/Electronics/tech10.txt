@@ -1,0 +1,13 @@
+﻿LONDON: Pin codes may soon become obsolete. To unlock your phone, jut holding it to your ears may soon be enough. Yahoo has unveiled a new technology that would replace finger prints, retina scans or the usual four digit security number to unlock your phone.
+
+All you will need is your ear.
+
+The team has announced through a video that scanning users' ears for identification achieves 99.8% authentication precision with a false-rejection rate of 1 out of 13. This brings reliable biometric user authentication to a vast number of commodity devices. Future research will focus on the owner's grip or even the biometric of your fist as your password.
+
+Yahoo says "Recent mobile phones integrate fingerprint scanners to authenticate users biometrically and replace passwords, making authentication more convenient for users. However, due to their cost, capacitive fingerprint scanners have been limited to top-of-the-line phones, a result of the required resolution and quality of the sensor."
+
+It added "We present Bodyprint, a biometric authentication system that detects users' biometric features using the same type of capacitive sensing, but uses the touchscreen as the image sensor instead. While the input resolution of a touchscreen surface area is larger, allowing the touch sensor to scan users' body parts, such as ears, fingers, fists, and palms by pressing them against the display. Bodyprint compensates for the low input resolution with an increased false rejection rate, but does not compromise on authentication precision: In our evaluation with 12 participants, Bodyprint classified body parts with 99.98% accuracy and identifies users with 99.52% accuracy with a false rejection rate of 26.82% to prevent false positives."
+
+Bodyprint brings biometric authentication to commodity mobile devices using the capacitive touchscreen as a low-resolution, but large-area image sensor to reliably identify users based on their ears, fists, or grips when pressed against the touchscreen. To accept an incoming call, the user places the touchscreen onto his ear. Bodyprint extracts features from the raw capacitive image to identify the user.
+
+Bodyprint identifies users through the following body parts and characteristic poses when touching the screen: ear, fist, phalanges, palm and finger. Bodyprint obtains the capacitive image from the touch chip to analyze touch images instead of 2D touch locations that devices traditionally process. Bodyprint recognizes users by their ears with 99.8% precision with a false rejection rate of only 1 out of 13.

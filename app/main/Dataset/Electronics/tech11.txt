@@ -1,0 +1,21 @@
+﻿BENGALURU: Heralding a second wave of drone-making in India, a few startups have advanced to commercializing the brain that controls these remote-controlled flying robots.
+
+Making drones these days is akin to assembling Lego blocks, which could take a day or two. But getting the pieces to work in harmony takes a couple of years — precious currency for startups. To that end, aerospace startups such as NavStik Autonomous Systems, Edall Systems and Aero360 are building software and hardware solutions, plug-and-play units that could condense research and development time by a couple of years.
+
+While drones are banned for commercial use in India, the unmanned aerial vehicles are used largely by government organizations and police forces for applications such as surveillance in disaster management, wildlife surveys, and during tournaments such as the Indian Premier League.
+
+Startups are pushing the envelope for drone applications in India with deeper analytical and decision-making capabilities, while crunching development time.
+
+With a readymade controlling unit and software to sell to drone-makers, Pune's NavStik counts almost all premier aerial-robotics research labs in India as clients, including those at the state-run Defence Research and Development Organization, National Aerospace Laboratories and Hindustan Aeronautics, the Indian Institutes of Technology and the Indian Institute of Science.
+
+"Customers are excited about getting started with development immediately. It saves them at least a couple of years," said CEO Nitin Gupta, whose year-old company clocked in Rs 40 lakh in revenue in 2014-15. "Our USP is that our hardware is one of the lightest in the world," said the 34-year-old Gupta, who has published white papers related to UAVs in several international journals.
+
+NavStik's 4-gram hardware packs in sensors, accelerometers, gyroscopes and global positioning systems. Combined with software, it becomes an autopilot system, sensing surroundings to decide the thrust required from rotors or the turn of the rudder, among other things.
+
+NavStik competes with the likes of US-based 3D Robotics and Airware. The latter is funded by venture capital firms Google Ventures and Andreessen Horowitz. The global market for drones, also known as unmanned aerial vehicles, is expected to reach $10,573 million by 2020, according to research firm MarketsAndMarkets. In India, the market size for small UAVs, weighing not more than 50 kilograms, is expected to reach $33.53 million by 2019.
+
+Bengaluru-based Edall Systems, which trains students in making drones, said its hardware unit helps them reduce research time and quickly develop new applications. The six-year-old drone-maker said for commercial purposes, they would prefer to sell the whole package, not just the controller unit, to thwart theft of intellectual property.
+
+Software for drones have features such as image processing and digitization that enable them to analyze images and videos in real-time. "As far as software-as-a-service is concerned, it already exists, and now drone companies want it," said Debajit Sarkar, defense expert at advisory firm Market Info Group. "Customized software will definitely help (drone-makers and clients) as long as the customer understands the requirement and it is tailor-made for the drone and its service."
+
+"The software is the most important. It dictates to a large extent what the drone is capable of offering as a service," said 25-year-old Pragdish Santosh, founder of Chennai-based Aero360. The Tamil Nadu Slum Clearance Board uses the company's software to analyze land characteristics and construction plans and instantaneously design 3D models for building housing colonies for slum-dwellers.

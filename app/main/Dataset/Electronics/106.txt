@@ -1,0 +1,19 @@
+﻿My Fitbit sends me encouraging notes throughout the day. My iPhone does a remarkable job of telling me where I am, where I should be, and how to get from here to there. And then there’s my Honda, reminding me what music I last listened to. Would I like to hear something else?
+
+For the most part, these devices work well, and I am pleased with the convenience that all this robust connectivity offers. On a more global scale, when my personal data is added to that of millions of others, I see the enormous value in all that aggregated information, culled and parsed by ever larger and more interconnected networks.
+
+And yet, I’m also alarmed when I consider the security vulnerabilities present in nascent Internet of Things (IoT) systems. Digital privacy expert Christopher Soghoian, profiled in this issue, makes a point of never connecting his own devices directly to the IoT, for just that reason.
+
+So why aren’t these problems addressed during product development?
+
+It may be that today’s pell-mell design cycles don’t allow engineers to consider any issues that aren’t absolutely essential to the day-to-day performance of a device. On the face of it, what does privacy have to do with the range of your Android’s antenna? But that may well change in the next few years. Andrew “bunnie” Huang, in this issue, contemplates the demise of Moore’s Law and concludes that the resulting slowdown in transistor-doubling times will give engineers more breathing room in which to be creative and responsive.
+
+Or perhaps technology developers consider such matters beyond their purview. A while back, I attended a conference on nuclear weapons proliferation where a similar question arose: Do bomb designers have a moral responsibility for how their weapons are used? At that meeting the answer was no—the designers felt their job was to build the best possible weapons and someone else’s job to determine what should happen with them. So are app developers and IoT builders absolved of responsibility for security and privacy? Who should decide these issues?
+
+Now, my Fitbit tracker is not a nuclear weapon, but I can certainly imagine how the data it is collecting, along with the other information that is out there on the Web about me, could be used against me, in consequential or just absurd ways.
+
+I notice, in passing, the programs that already track me online. In one recent creepy episode, I suddenly began receiving e-mails about burial-service insurance after looking at funeral home websites to make arrangements for a relative.
+
+Which makes me wonder: Am I simply a collection of data? Luciano Floridi, Oxford professor and Google’s information philosopher, seems to think so. Floridi has been exploring the newish field of the philosophy and ethics of information. Now he is helping Google come up with new ideas about what it means to be a person in an age when everyone and everything has an IP address. “For Floridi, you are your information, which comprises everything from data about the relations between particles in your body, to your life story, to your memories, beliefs, and genetic code,” writes Robert Herritt in his recent profile of Floridi in Pacific Standard magazine. “Floridi’s view can also help us think precisely about the consequential questions that today preoccupy us at a very practical level.”
+
+Just how we think about and answer these questions will define our tech-obsessed culture going forward.

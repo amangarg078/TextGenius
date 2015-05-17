@@ -1,0 +1,17 @@
+﻿The spotlight on Twitter’s business shifted Tuesday from user growth to concerns about ad revenue. But tucked in Twitter’s earnings call was a notable comment that the company is bolstering its user numbers by accounting for a new audience group.
+
+On Tuesday, Twitter finance chief Anthony Noto said the company will begin including what they call “SMS fast followers” in its monthly active user tally. These users access and use Twitter exclusively through text messages, a method employed by users in emerging markets such as India and Brazil.
+
+By including this group, Twitter’s audience will automatically grow in size, and it should boost its closely watched user growth growth metric.
+
+Twitter said there were 6.4 million SMS-only users during the first quarter, up 60% from 4 million three months earlier. That growth is far larger than the 4.9% reported in the fourth quarter, albeit it from a smaller absolute number.
+
+Twitter on Tuesday met expectations by adding 14 million users in the quarter to reach 302 million monthly active users worldwide. Including SMS-only users, Twitter’s total count would be 308 million monthly active users, and quarter-to-quarter growth would have been about 6%.
+
+SMS use of Twitter is prevalent in emerging markets where feature phones are still widely used and those with smartphones cannot necessarily afford data access.
+
+Like Facebook FB -0.60%, Twitter has begun investing more heavily in emerging markets such as India, Brazil and Indonesia, which have become bigger sources of new users as growth in developed markets like the U.S. and the U.K. level off. In January, Twitter purchased ZipDial, an India-based startup that specializes in marketing via text messages.
+
+Known as “missed call” marketing, ZipDial allows consumers to dial a number for a company and hang up before connecting. The company then sends the caller a free text message containing advertisements and other information, without the users getting a charge. At the time of the acquisition, ZipDial CEO Valerie Wagoner said that for Twitter, users can place a missed call to a Twitter account the receive tweets on their mobile devices.
+
+With ZipDial, Twitter says it has improved the fast-follow experience. For example, it has created a missed-call number people can dial to get tweets around specific events such as the Cricket World Cup. Twitter would then send callers the best tweets of the even from various accounts. It can also include links to Web pages where more tweets are available.

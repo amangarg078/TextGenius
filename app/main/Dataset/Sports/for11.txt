@@ -1,0 +1,69 @@
+﻿Ferrari technical director James Allison has labelled Christian Horner's suggestion to ban wind tunnels in Formula One as "foolish".
+
+Amid ongoing concerns over costs in Formula One, Horner has been championing a ban on wind tunnels to limit the money teams spend on development.
+
+"One of the holy grails that the teams are reluctant to go near is the wind tunnel," Horner said in Malaysia. "If the sport is serious about reducing costs, then we have to look, maybe to say, OK, let's get rid of wind tunnels, let's commercially rent them out, as some of the teams already do with their second tunnels, and put in a standard teraflop, or a standard amount of capacity for CFD, and loosen the regulations in certain areas so that you come up with more ingenuity."
+
+His idea has garnered support from Force India and Lotus in recent weeks, but it would mean the design of F1 cars is dependent on use of CFD (computational fluid dynamics), which Allison says is not a yet a reliable tool in isolation.
+
+"That would be an extremely foolish direction for the sport to take," he said. "The reason I say that is that we all are fortunate to receive money from our backers, who back us in the hope that we will then put a car on the grid that will do them proud. As engineers, our job is to make sure we spend their money wisely and that when we spend their money we deliver lap time off the back of it.
+
+"CFD is a splendid thing, but it is simply not a tool which works in isolation of wind tunnels. If you try to use it in that way, you will fool yourself and you will think you are developing the car magnificently and you will find that when you launch the car at the start of the year that a lot of what you thought would happen didn't happen. I don't think that is a good way to reward the investment of sponsors."
+
+Allison said other engineering industries would not consider using CFD without backing up the data in a wind tunnel and F1 should be no different.
+
+"I'm almost certain no such thing will happen because the technology is not ready yet. CFD is a fantastic aerodynamic tool, but it is something that enables windtunnels to work very effectively and efficiently. It is not something to be used in isolation and it's not used in isolation in practically any other industry. If you take the aeroplane industry, they use it in certain flight regimes - transonic cruise, supersonic cruise - but in the landing configuration where the aeroplane is all dirty and it's got lots of complicated flow on it - like our cars but much less complicated - there you need to use windtunnels to back up the CFD."
+
+ 
+Motor Cycling: MotoGP veteran Rossi wins Qatar season-opener
+Channel NewsAsia
+ 
+Mudslinging and an agreement on something that will never happen, it's all in a day's work for a Formula One boss, as Maurice Hamilton explains...
+
+The body language in the FIA team press conference in Malaysia spoke just as loudly as some of the words. The positioning of Christian Horner (arms folded) alongside Cyril Abiteboule (arms folded) told of the frisson between their respective companies and the anticipated discomfort under the spotlight. But judging by Horner's squirming in his seat later on, one thing the Red Bull boss did not expect was a shower of criticism coming over his right shoulder from the direction of Bob Fernley.
+
+The subject of costs - and how to reduce them - had come up. It's a subject Fernley, in his role with Force India, is acquainted with in painful detail. And has done through the years when four successive championships had cash rolling into the Red Bull coffers and Horner had less pressing matters to worry about.
+
+Force India and others as less well off as themselves have been pushing for some means of restraining expenditure which, even to an untrained eye, is barking mad. There was a point when FOTA, the teams collective, actually looked like doing something useful but, as Fernley was about to make very clear, he had no doubt about one of the principal reasons for FOTA's collapse and when the financial problems really took hold.
+
+"We have to go back to a few years when FOTA was operating in a very good way," said Fernley. "It was a consolidated approach; it was well stewarded by Martin Whitmarsh; we were in joint negotiations with CVC [Capital Partners] to renegotiate those contracts and everything else. Unfortunately - and I say that because Christian is here - Red Bull felt the need to take the 40 pieces of silver and that was the downside for F1 and I don't think we have recovered from that particular action."
+
+While someone else spoke, Horner, staring at the desk, looked thoughtful as he worked out how to deal with such a direct hit while attempting to patch up the existing Renault inspired holes beneath the water line.
+
+"In think it's a little harsh of Bob to suggest that the plight of the small teams is all Red Bull's fault," said Horner. "You have to remember that at the time FOTA was pretty dysfunctional, focussing on the wrong aspects; Ferrari went and cut their own deal; Red Bull weren't the first team to sign a deal with Bernie [Ecclestone]. At the same time, McLaren were also in discussions and cut their own deal.
+
+"That's the way of the world. It's not down to Red Bull or Ferrari or McLaren to decide what the revenue distribution should be. That's down to Bernie and the board members at CVC."
+
+"Unfortunately - and I say that because Christian is here - Red Bull felt the need to take the 40 pieces of silver and that was the downside for F1 and I don't think we have recovered"
+
+
+Bob Fernley, Force India deputy team principal
+
+Earlier, Horner had made the most sensible suggestion of the day - - one that Fernley completely agreed with.
+
+"If you're really serious about reducing the costs in F1 then you have to look at turning it upside down in many respects," said Horner. "A Holy Grail the teams are reluctant to go near is the wind tunnel. Red Bull has a strong aerodynamic department and a good wind tunnel that we have invested a lot of money in over the years. But if you look at the consumption of cash it takes to feed that tunnel, if the sport is serious about reducing costs then we have to say: 'Ok, let's get rid of wind tunnels; let's commercially rent them out and put in a standard teraflop for a standard amount of capacity for CFD and loosen the regulations in certain areas so that you come up with more ingenuity'."
+
+Fernley was in total accord. "One of the biggest barriers for new teams is the cost of wind tunnels; we would definitely be for a ban. One of the arguments for not getting rid of wind tunnels is that F1 is the pinnacle of motorsport and should use all of the tools available. But if it is the pinnacle, it should be pushing the boundaries and the boundaries for us, technically, are in CFD in the same way we are pushing the boundaries in hybrid.
+
+"Using what is a bit of a dinosaur technology [wind tunnels] is not one of the options. Environmentally it's sending the wrong message. These things have huge consumptions of electricity."
+
+The rest of the panel agreed. When you hear these people speak individually, they talk a huge amount of sense. But then you ask yourself: what's the point? They'll never agree. Max Mosley summed it up in The Times yesterday when discussing the current state of F1 and Mercedes dominance.
+
+"All the teams signed up to the current regulations and they have to live with it. The whole thing about teams complaining about domination is very much pots and kettles. They never complain about dominating when they're dominating. It's the nature of the sport, going right back to the mid-1950s, when Mercedes dominated then. The signs are that one team will dominate the sport for two or three years and there is nothing anyone can do about it unless they all agree. Which, as we all know, is never likely to happen."
+
+So, body language it is, plus a bit of verbal swordplay and some very interesting thoughts. But not much else.
+
+
+ 
+
+Lotus deputy principal Federico Gastaldi thinks Ferrari's win in Malaysia proves Christian Horner's calls to level the playing field in 2015 were premature.
+
+Mercedes' dominant one-two in Australia sparked fears of another season dominated by the Brackley outfit, prompting Horner to suggest he FIA peg back the Silver Arrows through the regulations. Since then, Ferrari has returned to the top step of the podium with Sebastian Vettel's unexpected victory in Malaysia.
+
+Lotus was a Renault customer until switching to Mercedes power ahead of this season, a move which has already seen an improvement in the team's performance in 2015, but Gastaldi feels it was far too early to jump to conclusions about how the season would pan out after the first race of the season.
+
+"We heard these calls after the first race of the season which was maybe a little early to be making such noise," Gastaldi said. "Now after two races there have been two different teams who have taken race wins, so the idea that Mercedes will have it all their own way this year was a little premature. Formula One is always very competitive and it doesn't matter which year you're in or the circumstances of a team in any given year: we all want to win and will do everything we can to become as competitive as possible. Of course, we have a promoter and a regulatory body which are both very attuned to the various needs of the sport, so every aspect is always very closely scrutinised."
+
+Gastaldi thinks the first two races of the season are proof that races will differ in enjoyment as the season goes on.
+
+"Malaysian Grand Prix was a great race in terms of the spectacle on track and if we have races like that for the rest of the season we're in for a pretty good time! Just like any year, we're sure to have some races which have people on the edges of their seats as well as some which are far more tactical and appeal more to the connoisseur. That's the nature of Formula One. And, just as we see a variety of different natured racing over the course of a season, it's also often the case that we hear lots of opinions about the sport as we have done already this year. No matter what people's opinion, it's great that people are talking about Formula One."

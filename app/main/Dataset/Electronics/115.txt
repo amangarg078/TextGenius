@@ -1,0 +1,43 @@
+﻿The highly anticipated Apple watch will be available for pre-order starting April 10, and start shipping from April 24. Apple has crafted special retail programs for the Watch, try-on sessions, additional perks for buyers of the Watch Edition, special discounts for its employees and more.
+
+What makes Apple Watch important is the fact that it is Apple’s new product category ever since Steve Jobs passed away and could possibly become the first mainstream smartwatch, considering everyone still seems unsure about how useful the new wrist tech would be. The first reviews of the Apple Watch are out, and here’s what tech experts are saying.
+
+In terms of design and style, the watch has received fairly good reactions. It is a beautifully crafted piece of tech. It serves as a usual timepiece, but let’s look beyond the design and look.
+
+It should be noted that the Apple Watch isn’t the lightest piece of tech you would be wearing. “It’s also surprisingly heavy. I noticed when I was wearing it, and everyone who held it commented on the weight,” adds TheVerge.
+
+Firstly, one should know that the Apple Watch isn’t anywhere close to your iPhone. It comes with a different set of inputs like digital crown, a knob for scrolling and zooming, and a touch screen that needs to be pressed down harder for additional options. One won’t find a full on-screen keyboard, and your outbound messages will rely on some default responses, emoji and so on.
+
+Moreover, unlike your iPhone, the Watch also relies on voice dictation. Obviously, voice assistant Siri is bound to be more useful on the wrist. This means, there’s a lot of learning before you actually start using the device. Apple knows this well, and probably the reason why customers will get try-on sessions and employees are trained to help customers learn and understand how to use the Watch.
+
+“The Watch’s software requires a learning curve that may deter some people. There’s a good chance it will not work perfectly for most consumers right out of the box, because it is best after you fiddle with various software settings to personalize us,” points out Farhad Manjoo of NYTimes.
+
+“It took three days — three long, often confusing and frustrating days — for me to fall for the Apple Watch. But once I fell, I fell hard,” he added.
+
+If you think, the Watch offers swift and slick navigation like the iPhone, then you will be disappointed. The interface is laggy, but Apple has promised some software updates in the near future to address these issues.
+
+“There’s no getting around it, no way to talk about all of its interface ideas and obvious potential and hints of genius without noting that sometimes it stutters loading notifications. Sometimes pulling location information and data from your iPhone over Bluetooth and Wi-Fi takes a long time. Sometimes apps take forever to load, and sometimes third-party apps never really load at all. Sometimes it’s just unresponsive for a few seconds while it thinks and then it comes back,” TheVerge says in its review.
+
+“Apple’s big trick with the Watch is dramatically improved buzzing with what it calls the ‘Taptic Engine.’ It’s a haptic feedback system that feels wildly different from the fuzzy, cumbersome vibrations of other devices,” the report adds.
+
+Most reviews have been complaining about the slow and limited number of apps that the device supports.
+
+“Third-party apps are mostly useless right now. The Uber app didn’t load for me, the Twitter app is confusing and the app for Starwood hotels mysteriously deleted itself and then hung up on loading when I reinstalled it. In the end, though, it did let me open a room at the W Hotel in Manhattan just by touching the watch face to the door,” the NYTimes review adds.
+
+Geoffrey Fowler of The Wall Street Journal writes, “Apps have been the biggest disappointment of my Apple Watch experience. Apple says more than 1,000 Watch apps have been submitted, but only about three dozen have been available to test. Aside from some apps that deliver fresh news headlines, including the Journal’s, as well as ones from the New York Times, CNN and Flipboard, not enough felt useful.”
+
+The Watch’s health and fitness abilities come in the form of two apps – Activity and Workout. The Activity app is basic to monitor your movement while the Workout app does the rest. The features offered may not be smooth at the moment, but reviews clearly state that it comes with a lot of potential to improve as a fitness product.
+
+“Clearly, much thought was put into the fitness reminders and achievements. I haven’t changed any of the defaults, and it feels like Apple has struck a careful balance between successfully motivating me to move (and stand) more throughout the day, without crossing over the line to badgering,” points out Daringfireball.
+
+“I found that the heart rate sensor struggled during my workouts, especially when I was really sweaty; it consistently measured about half my correct heart rate instead of my full 148bpm. Out of the box right now, the Apple Watch is a very expensive, barebones fitness tracker. It’s much nicer than its competitors — I used it with the white sport band and thought it was really quite striking — but it’s certainly not more full-featured,” TheVerge review further adds.
+
+“Short battery life compared with other watches and higher prices are the biggest flags for now. But Apple is just setting sail, and it has a long journey ahead,” points out c|net.
+
+“You won’t be wearing the watch at night (because it will be charging). That’s a much bigger problem than anybody seems to be acknowledging. For one thing, that fact makes the Apple Watch the only fitness tracker on the market that can’t track your sleep… For a device so thoroughly designed to help monitor your physical well-being, that omission is a heartbreaker,” Yahoo’s David Pogue said.
+
+“The Apple Watch is the most ambitious, well-constructed smartwatch ever seen, but first-gen shortfalls make it feel more like a fashionable toy than a necessary tool, concludes Cnet.
+
+“There’s no question that the Apple Watch is the most capable smartwatch available today. It is one of the most ambitious products I’ve ever seen; it wants to do and change so much about how we interact with technology. But that ambition robs it of focus: it can do tiny bits of everything, instead of a few things extraordinarily well. For all of its technological marvel, the Apple Watch is still a smartwatch, and it’s not clear that anyone’s yet figured out what smartwatches are actually for,” concludes TheVerge.
+
+It will be interesting to see the size of the market that Apple Watch eventually manages to attract. Going by the current reviews, the Apple Watch has a lot of potential, but this first variant doesn’t seem to be quite ready. Moreover, early adopters also have the choice to look at cheaper smartwatches available in the market, considering Apple watches start at $350 and go all the way up to $1000. However, we still have to wait until April 24, when user reviews of the Watch will start surfacing.

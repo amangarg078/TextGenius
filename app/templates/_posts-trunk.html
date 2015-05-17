@@ -1,0 +1,49 @@
+<ul class="posts">
+    {% for post in posts %}
+    <li class="post">
+        <div class="post-thumbnail">
+            <a href="{{ url_for('.user', username=post.author.username) }}">
+                <img class="img-rounded profile-thumbnail" src="{{ post.author.gravatar(size=40) }}">
+            </a>
+        </div>
+        <div class="post-content">
+            <div class="post-date"><span class="glyphicon glyphicon-time"></span>  Posted: {{ moment(post.timestamp).fromNow() }}</div>
+            <div class="post-author"><a href="{{ url_for('.user', username=post.author.username) }}">{{ post.author.username }}</a></div>
+            <div class="post-body">
+                {% if post.body_html %}
+                    {{ post.body_html |truncate(500, killwords=False)| safe }}
+                {% else %}
+                    {{ post.body|truncate(500, killwords=False) }}
+                {% endif %}
+            </div>
+			<div class="post-tags">
+                {% if post.tags %}
+                    {% for t in post._tags %}<a href="{{ url_for('.tag', name=t.name) }}"><span class="label label-danger">{{ t }}</span></a>
+                {% endfor %}
+                
+                {% endif %}
+			</div><br/>
+			
+            <div class="post-footer">
+		        <a href="{{ url_for('.post', id=post.id) }}">
+                <span class="btn btn-primary">Read More &raquo;</span></a>
+				
+                {% if current_user == post.author %}
+                <a href="{{ url_for('.edit', id=post.id) }}">
+                    <span class="btn btn-danger"><span class="glyphicon glyphicon-edit"></span>  Edit</span>
+                </a>
+                {% elif current_user.is_administrator() %}
+                <a href="{{ url_for('.edit', id=post.id) }}">
+                    <span class="label label-danger">Edit [Admin]</span>
+                </a>
+                {% endif %}
+           
+                
+                <a href="{{ url_for('.post', id=post.id) }}#comments">
+                    <span class="btn btn-info">Comments <span class="badge"> {{ post.comments.count() }} </span></span>
+                </a>
+            </div>
+        </div>
+    </li>
+    {% endfor %}
+</ul>

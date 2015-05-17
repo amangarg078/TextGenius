@@ -1,0 +1,13 @@
+﻿Materials that cool and heat when stress is applied and released could led to new solid-state refrigerators that are more efficient and environmentally friendly than conventional fridges, researchers say.
+
+Air conditioners, refrigerators, and freezers burn through energy, accounting for roughly one-third of all electricity that U.S. homes use. A normal cooler uses a pump to squeeze refrigerant gas, turning it into a liquid. This liquid then expands in tubes lining the cooler, taking heat with it. Unfortunately, the most effective refrigerant gases are freon-based compounds banned internationally 15 years ago because they destroy the ozone layer. Freon’s replacements are hardly better; they are environmentally unfriendly global warming gases more than 1,000 times worse than carbon dioxide.
+
+To sidestep these environmental effects entirely, scientists at the Technical University of Denmark explored so-called elastocaloric materials that change temperature when they are compressed and when they decompress. They detailed their findings in the 24 March online edition of the Journal of Applied Physics. 
+
+When squeezed, the materials’ crystal structures change, they heat up, and subsequently expel this heat into their surroundings. When the stress is removed, and the crystal structure of the elastocaloric material reverts, the material cools down and draw heat away from the compartment that is to be cooled. The researchers basically turned the shape memory effect, where a change in temperature can make a material change its shape, on its head.
+
+The Danish researchers found that wires made from a super-elastic alloy that was 48.9 percent nickel and 51.1 percent titanium could be repeatedly compressed and decompressed with a reproducible elastocaloric effect over a wide range of temperatures. They added that a 2014 U.S. Department of Energy report suggested that elastocaloric cooling shows the most potential among all non-vapor-compression cooling technologies.
+
+The scientists noted that over the expected lifetime of 10 years, an elastocaloric material has to stand up to 100 million cycles of compression and decompression. Although no elastocaloric material is currently this durable, the Danish group says that recent nickel-titanium thin films doped with copper and cobalt have shown promise. That formula has withstood more than one million cycles, while showing good levels of cooling function and no fatigue.
+
+The scientists say the next step is to build a prototype to demonstrate the potential of these materials. 

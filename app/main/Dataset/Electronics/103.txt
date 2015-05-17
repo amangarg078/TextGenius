@@ -1,0 +1,21 @@
+﻿According to forecasts by the International Data Corporation, more people will surf the Web this year using their mobile devices than will do so on desktop or laptop computers. But the growing complexity of Web pages means that mobile Web browsing has become an increasing drain on the batteries of mobile devices. The increasingly common result is that a handset’s battery life is significantly diminished or mobile Web browsing slows to a creep to conserve energy. Smartphone users aren’t happy with either outcome. And online businesses stand to lose money from potential customers if mobile devices can’t deliver a seamless Web-browsing experience.
+
+One possible solution uses existing smartphone hardware more intelligently; it avoids wasting processor performance or battery power on loading Web pages. Smartphone operating systems usually have a battery-saving mode that uses the lowest processor frequency to minimize energy consumption, plus a performance mode that loads Web pages as fast as possible using the highest processor frequency. Engineers at The University of Texas at Austin have improved on that with a system that splits the difference by loading Web pages using just the right processor frequency. They presented a paper  describing the work at the IEEE Symposium on High Performance Computer Architecture last month in Burlingame, Calif.
+
+“The challenge is how to slow performance just enough to save energy when the user won’t notice anything,” said Vijay Janapa Reddi, an electrical and computer engineer at The University of Texas at Austin who was one of the authors of the paper.
+
+First, Reddi and his colleagues had to predict the performance and energy consumption of loading individual Web pages. Visiting different pages can drastically change the performance requirements and energy consumption for a mobile browser app, but surprisingly few people have bothered to take a look at these performance and energy differences.
+
+Such analysis allowed the team to create a Web page scheduling system that could load pages on a case-by-case basis according to the processor frequency each required. They tested the scheduling system under a “three-second rule” to ensure that all pages were loaded within that amount of time.
+
+The scheduling system ended up using 20.3 percent less energy than the performance mode while only violating the three-second rule for 2.2 percent more Web pages. At the same time, the scheduling system used 78.8 percent more energy than battery-saving mode while reducing the number of three-second-rule violations by 37.1 percent.
+
+But Web page loading is only the first step in the mobile Web user experience. Reddi’s group presented another paper at the same conference regarding how to achieve maximum energy efficiency during user interactions with mobile Web apps. The engineers created an event-based scheduler by analyzing interactivity events such as a touch-based click or scrolling on the screen. 
+
+“This is about how I take a high-level interactivity app and do scheduling for those particular events,” Reddi explained.
+
+The group tested a variety of interactive apps such as the Chromium Web browser, a photo editing app called CamanJS, and a JavaScript port of the first-person shooter video game “Doom,” among others. The event-based scheduler saved 37.9 percent and 22.9 percent, respectively, on energy consumption compared with two common Android governor modes called “interactive” and “ondemand.”
+
+Such energy-efficiency advantages can be applied to existing smartphone systems by simply tweaking Android or other phone operating systems. But Reddi wants to do more than just convince one or two mobile device manufacturers to take this approach. He wants to spark a broader conversation about putting energy efficiency higher on the priority list for designing mobile device software, rather than just always emphasizing best performance.
+
+“If I talk to an architecture guy, then I talk about energy because they want to hear about this,” Reddi said. “But if I end up talking to an app developer, I still need to get them thinking about it. This is not a free ride.”

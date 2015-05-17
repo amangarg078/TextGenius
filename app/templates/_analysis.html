@@ -1,0 +1,51 @@
+﻿{% for post in posts %}
+	<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><span class="glyphicon glyphicon-bookmark"></span>   Category</h3>
+  </div>
+  <div class="panel-body">
+   {{post.category}}
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title"><span class="glyphicon glyphicon-folder-open"></span>    Summary</h3>
+  </div>
+  <div class="panel-body">
+   {{post.summary}}
+  </div>
+</div>
+	<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+          <span class="glyphicon glyphicon-thumbs-up"></span>   Positive Points
+        </a>
+      </h4>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">{{post.pos}}
+      </div>
+    </div>
+  </div>
+  
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <span class="glyphicon glyphicon-thumbs-down"></span>   Negative Points
+        </a>
+      </h4>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+	  {{post.neg}}
+      </div>
+    </div>
+  </div>
+</div>
+
+   {% endfor %}
+</ul>

@@ -1,0 +1,29 @@
+﻿The Facebook hackathon: It’s a part of the company’s culture that has spread to other tech companies as a way to get engineers try out new ideas. Last year, Facebook engineers held 17 such events at locations around the world. They developed software to better distribute server load to save power, they built add-ons for a security tool, they tweaked an LED display to monitor Facebook’s infrastructure, and they mapped voters choices shared with Facebook friends during the midterm elections. All are obviously connected to Facebook’s day-to-day business.
+
+One group, though, took the mission of its hackathon a little farther outside their day jobs than most. In November 2014, they launched a drone-a-thon.
+
+It was the first hackathon for Satish Sampath, engineering manager at Facebook’s London office, just hired a few months earlier. The general rule for Facebook hackathons is for engineers to work on something not connected to their regular jobs. Sampath took his interpretation of that mission to the extreme—he wanted his group, which focuses on Android apps, to work on something not tied to its regular environment at all—no computers, no phones. That left drones.
+
+Facebook’s recent hackathon couldn’t start until the cafeteria had been drone-proofed.
+Facebook’s facilities department is used to helping out with hackathons by setting up work areas and providing food. But the idea of drones zooming around inside the company’s cafeteria raised a whole new set of issues—how do you drone proof a room? They scrambled to protect the lights, ducts, and wires with nets.
+
+Sampath also did something else a little out of the ordinary—he invited in engineers from other companies, in particular, Android engineers. “We wanted to get connected to the Android community in London,” he says.
+
+He set up a Facebook page (of course) to collect and vote on ideas for drone projects for the hackathon. The final five were:
+
+Dancing drone: it would listen to, recognize, and respond to the beat of music
+Tour Guide Drone: a drone that could fly along as you walk through a city and give instructions and information
+Watch-Controlled Drone: a smart-watch app that would translate voice commands into drone commands
+“Follow-That” Drone: a drone that can follow a selected object, say, keeping an eye on your Roomba or other home robot
+Teacher Drone: a drone that could be easily programmed by kids, to teach basic programming skills. Sort of an airborne “Turtle graphics” system
+The group selected the Parrot Drone as its platform. Sampath reports that drone programming turned out to be a lot harder than expected.
+
+“We had some trouble with the software development kit in the beginning, and everybody pitched in for the first couple of hours on that,” he says. 
+
+But most of the group had never worked with a drone before, and, he says, “people didn’t realize how difficult it is to balance a drone when it is flying—it would shake from left to right. Given enough time we would have figured out these issues.”
+
+In the end, the teams got the dancing drone working well; the rest of the projects didn’t get finished that day.
+
+But people are still working on them, the Facebook group created for the effort is still active, and new ideas for drone applications continue to emerge. And Sampath, along with a number of the other engineers, has bought drone-building kits to work on in their free time.
+
+Some of the technology developed at Facebook hackathons makes it into Facebook’s main site: Chat, Timeline, and even the iconic “Like” button started at hackathons. These drone apps aren’t headed that way anytime soon. But if Facebook ever does launch a fleet of drones, history may remember it as an effort that, once again, originated at a hackathon.

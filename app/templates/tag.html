@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+{% import "_macros.html" as macros %}
+{% block title %}
+TextGenius - Posts tagged {{ tag }}
+{%  endblock %}
+
+{% block page_content %}
+    <div class="page-header"/>
+            <h1>Posts tagged- {{ tag }}</h1>
+
+            {% if tag.post.count() > 0 %}
+                {% with posts = tag.post %}
+                    {% include "_posts-trunk.html" %}
+                {% endwith %}
+            {% else %}
+                There are no posts with this tag.
+            {% endif %}
+</div>
+{% if pagination %}
+<div class="pagination">
+    {{ macros.pagination_widget(pagination, '.post', fragment='#comments', id=posts[0].id) }}
+</div>
+{% endif %}     
+{% endblock %}

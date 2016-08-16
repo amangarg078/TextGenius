@@ -1,3 +1,4 @@
+-r requirements.txt
 Flask==0.10.1
 Flask-Bootstrap==3.0.3.1
 Flask-HTTPAuth==2.2.0

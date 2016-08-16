@@ -6,6 +6,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 import re
+import nltk
 from BeautifulSoup import BeautifulSoup
 nltk.data.path.append('./nltk_data')
 

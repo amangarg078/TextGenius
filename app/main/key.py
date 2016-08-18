@@ -1,5 +1,5 @@
 import nltk
-nltk.data.path.append('./nltk_data')
+nltk.data.path.append('./nltk_data/')
 def text_keywords(text):
      
     # Used when tokenizing words

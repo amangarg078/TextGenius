@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 import re
 import nltk
 from BeautifulSoup import BeautifulSoup
-nltk.data.path.append('./nltk_data')
+nltk.data.path.append('./nltk_data/')
 
 def tokenize(str):
         '''Tokenizes into sentences, then strips punctuation/abbr, converts to lowercase and tokenizes words'''

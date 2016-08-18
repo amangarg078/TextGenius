@@ -9,7 +9,7 @@ import pickle
 
 def classification(docs_new):
    docs_new=[docs_new]
-   twenty_train= load_files('.//Dataset')  #the complete data is in this directory; like comp.graphics etc
+   twenty_train= load_files('./Dataset')  #the complete data is in this directory; like comp.graphics etc
    count_vect = CountVectorizer()
    X_train_counts = count_vect.fit_transform(twenty_train.data)
    tf_transformer = TfidfTransformer(use_idf=False).fit(X_train_counts)

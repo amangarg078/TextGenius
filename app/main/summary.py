@@ -3,7 +3,7 @@ import nltk
 from collections import Counter
 from math import fabs
 from re import split as regex_split, sub as regex_sub, UNICODE as REGEX_UNICODE
-nltk.data.path.append('./nltk_data')
+nltk.data.path.append('./nltk_data/')
 from nltk.corpus import stopwords
 stopWords = stopwords.words('english')
 ideal = 20.0

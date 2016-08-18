@@ -18,7 +18,7 @@ def classification(docs_new):
    X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
 
    # Fit a classifier on the training set
-   #clf = MultinomialNB().fit(X_train_tfidf, twenty_train.target)
+   clf = MultinomialNB().fit(X_train_tfidf, twenty_train.target)
    #f = open('classification.pickle', 'wb')
    #pickle.dump(clf, f)
    #f = open('my_classifier.pickle',)
@@ -31,8 +31,8 @@ def classification(docs_new):
      # cPickle.dump(clf, fid)    
 
    # load it again
-   with open('my_classification.pkl', 'rb') as fid:
-      clf = cPickle.load(fid)
+   #with open('my_classification.pkl', 'rb') as fid:
+    #  clf = cPickle.load(fid)
     
    X_new_counts = count_vect.transform(docs_new)
    X_new_tfidf = tfidf_transformer.transform(X_new_counts)

@@ -7,3 +7,6 @@ retrieval applications.
 They were obtained from:
 http://anoncvs.postgresql.org/cvsweb.cgi/pgsql/src/backend/snowball/stopwords/
 
+The English list has been augmented
+https://github.com/nltk/nltk_data/issues/22
+

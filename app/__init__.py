@@ -6,7 +6,7 @@ from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.login import LoginManager
 from flask.ext.pagedown import PageDown
 from config import config
-import os
+import os,sys
 bootstrap = Bootstrap()
 mail = Mail()
 moment = Moment()
@@ -58,7 +58,7 @@ if not app.debug and os.environ.get('HEROKU') is None:
 
 if os.environ.get('HEROKU') is not None:
     import logging
-    stream_handler = logging.StreamHandler()
+    stream_handler = logging.StreamHandler(sys.stdout)
     app.logger.addHandler(stream_handler)
     app.logger.setLevel(logging.INFO)
     app.logger.info('textgenius startup')
